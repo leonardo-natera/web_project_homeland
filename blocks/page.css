@@ -1,0 +1,15 @@
+body {
+  background-color: #2a2c2f;
+  margin: 0;
+  padding: 0;
+}
+.page {
+  width: 100%;
+  color: #ffffff;
+  margin: 0 auto;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  overflow-x: hidden;
+  padding: 0;
+}
